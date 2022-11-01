@@ -73,11 +73,11 @@ textarea {
   height: 45px;
   line-height: 45px;
 }
-.form
+
 /* Corpo do formulario */
 
 .form-body {
-  padding: 30px;
+  padding: 50px;
 }
 
 .form-title {
